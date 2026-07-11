@@ -80,8 +80,6 @@ real-time-retail-streaming/
 ├── producer/
 │   └── producer.py
 │
-├── screenshots/
-│
 ├── docker-compose.yml
 │
 ├── requirements.txt
