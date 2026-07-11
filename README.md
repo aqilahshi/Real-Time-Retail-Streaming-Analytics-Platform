@@ -156,19 +156,21 @@ Displayed KPIs include:
 
 ## Live KPI Dashboard
 
-*(Insert Screenshot)*
+<img width="2940" height="592" alt="image" src="https://github.com/user-attachments/assets/58b33c9b-29a4-4d5c-a779-181c097ed2b5" />
 
 ---
 
 ## Revenue by Product
 
-*(Insert Screenshot)*
+<img width="2906" height="790" alt="image" src="https://github.com/user-attachments/assets/958d8c77-d917-4d78-bcbb-c724fcfacd96" />
+
 
 ---
 
 ## Revenue by Category
 
-*(Insert Screenshot)*
+<img width="2848" height="776" alt="image" src="https://github.com/user-attachments/assets/ca052680-141c-4a48-abc4-8cfa90b019ca" />
+
 
 ---
 
