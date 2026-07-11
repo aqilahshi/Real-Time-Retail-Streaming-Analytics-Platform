@@ -274,9 +274,9 @@ Together, these projects demonstrate an end-to-end modern data engineering and A
 
 # 👨‍💻 Author
 
-**Zaim Wafiuddin**
+**Aqilah Syahirah**
 
-Master of Science (Artificial Intelligence)
+Master of Science (Computer Science)
 
 Interested in:
 
